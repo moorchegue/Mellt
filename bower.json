@@ -1,0 +1,19 @@
+{
+  "name": "mellt",
+  "main": "./javascript/Mellt.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ravisorg/Mellt",
+  "description": "A brute force password checker that returns a meaningful number describing the real world strength of your password",
+  "authors": [
+    "ravisorg"
+  ],
+  "license": "3 Clause BSD",
+  "ignore": [
+    "**/.*",
+    "nodejs",
+    "php",
+    "python",
+    "ruby",
+    "README.markdown"
+  ]
+}
